@@ -18,4 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 <p>
 <img src= "https://github.com/Meshva30/pr1/assets/136339359/a6ec1266-1180-4888-8814-867d1e2dd407"width=22% heigh=35%>
   <img src= "https://github.com/Meshva30/pr1/assets/136339359/5166e66f-256c-4351-b282-05432437d70a"width=22% heigh=35%>
-   
+    <img src= "https://github.com/Meshva30/pr1/assets/136339359/ba1758a3-a546-4475-aca4-9511af4e953a"width=22% heigh=35%>
+</p>
